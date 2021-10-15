@@ -1,3 +1,3 @@
 # BinaryTree
 
-idk binarytree implementation in different languages ig
+idk binarytree implementation in different languages ig (c++, py, ts)
